@@ -1,0 +1,389 @@
+id,app_name,notification_text,label
+1,Zomato,Your order from Pizza Palace is out for delivery,URGENT
+2,Instagram,anshul_mehta and 12 others liked your post,NORMAL
+3,Swiggy,Don't miss out! 60% OFF on your next order,NORMAL
+4,WhatsApp,Mom: Call me when you're free. It's important.,URGENT
+5,Gmail,Your Amazon.in package has been shipped!,URGENT
+6,YouTube,MKBHD uploaded: The Perfect Smartphone?,NORMAL
+7,Myntra,Your wishlist items are back in stock!,NORMAL
+8,Cred,Your credit card bill of ₹12000 is due tomorrow,URGENT
+9,Swiggy,Try new restaurants near you,NORMAL
+10,Zomato,Late night cravings? Order now with 50% OFF,NORMAL
+11,Instagram,You have a new follower: @techgirl_98,NORMAL
+12,Google Pay,You received ₹500 from Rohan Sharma,NORMAL
+13,Telegram,Security alert: New login from Chrome on Windows,URGENT
+14,Paytm,Flat ₹100 cashback on movie tickets,NORMAL
+17,Facebook,John tagged you in a post,NORMAL
+18,WhatsApp,Dad: Urgent! Call me back ASAP.,URGENT
+19,Netflix,New episode of Stranger Things is now streaming,NORMAL
+21,Truecaller,Scam suspected: Call from +91 99999 99999,URGENT
+22,Snapchat,You have a new snap from Aarya,NORMAL
+28,Gmail,Flight ticket confirmed: Pune to Delhi,URGENT
+29,Amazon,Deal of the Day: 40% off on Electronics!,NORMAL
+30,Hotstar,India vs Australia: Live Now,URGENT
+32,Spotify,Your weekly mix is ready,NORMAL
+37,LinkedIn,Your profile got 17 new views this week,NORMAL
+41,PhonePe,Recharge successful for ₹249,NORMAL
+50,Zomato,Your food has been delivered,URGENT
+51,Google Calendar,Meeting with Project Team in 15 mins,URGENT
+101,Amazon,Your order #123456 is out for delivery,URGENT
+102,Google Fit,"You walked 8,546 steps today",NORMAL
+105,PhonePe,₹1354899 paid to Flipkart using UPI,URGENT
+106,Google Calendar,Meeting with Team Alpha in 30 minutes,URGENT
+108,Samsung Reminder,Water the plants,NORMAL
+109,Google Pay,"₹3761,500 has been credited to your account from Rahul Sharma",URGENT
+110,Android System,New system update available,NORMAL
+111,Amazon,Great deals on Electronics! Up to 70% OFF,NORMAL
+112,Samsung Health,Time to take a break and stretch,NORMAL
+113,Google Calendar,Doctor appointment at 5 PM,URGENT
+114,Android System,Battery low: 15% remaining,URGENT
+115,Myntra,Your return has been picked up,NORMAL
+117,Security,Suspicious login detected in your Gmail account,URGENT
+121,Reminder,Call Dad at 8 PM,NORMAL
+122,Flipkart,Refund of ₹4773499 has been initiated,URGENT
+124,SBI YONO,"Your A/C XX1234 has been debited with ₹9562,500",URGENT
+126,SBI YONO,"Your A/C XX1234 has been debited with ₹39532,500",URGENT
+127,PhonePe,₹4417899 paid to Flipkart using UPI,URGENT
+128,Google,Your verification code is 462781,URGENT
+131,Google Play,App update completed: WhatsApp,NORMAL
+133,Google Maps,Heavy traffic on your route to office,URGENT
+134,Google Pay,Payment of ₹4137250 to Zomato failed,URGENT
+135,Uber,Your ride is arriving in 2 minutes,URGENT
+136,SBI YONO,"Your A/C XX1234 has been debited with ₹25182,500",URGENT
+137,Ola,Driver has been assigned for your trip,URGENT
+138,Google Pay,"₹19411,500 has been credited to your account from Rahul Sharma",URGENT
+140,Microsoft,Unusual sign-in activity detected,URGENT
+145,Google Pay,"₹43041,500 has been credited to your account from Rahul Sharma",URGENT
+150,Google Pay,"₹2271,500 has been credited to your account from Rahul Sharma",URGENT
+162,SBI YONO,"Your A/C XX1234 has been debited with ₹40982,500",URGENT
+163,Google Pay,"₹25571,500 has been credited to your account from Rahul Sharma",URGENT
+165,Google Pay,"₹30081,500 has been credited to your account from Rahul Sharma",URGENT
+166,Paytm,"Electricity bill of ₹12281,200 paid successfully",URGENT
+168,Google Pay,"₹7711,500 has been credited to your account from Rahul Sharma",URGENT
+172,Google Pay,"₹19801,500 has been credited to your account from Rahul Sharma",URGENT
+174,Google Pay,"₹1641,500 has been credited to your account from Rahul Sharma",URGENT
+180,PhonePe,₹4670899 paid to Flipkart using UPI,URGENT
+188,Google Pay,Payment of ₹1428250 to Zomato failed,URGENT
+194,PhonePe,₹3577899 paid to Flipkart using UPI,URGENT
+198,PhonePe,₹2431899 paid to Flipkart using UPI,URGENT
+200,PhonePe,₹3526899 paid to Flipkart using UPI,URGENT
+201,Internshala,Dame un grrrrr Internship,NORMAL
+202,Internshala,With Paytm Lakme & more - Refer your friends to...,NORMAL
+203,Messages,JA-NDMAEW-G,NORMAL
+204,Messages,पुढील ३ तासांत मुंबई शहर मुंबई उपनगर रायगड ठाणे आणि पु...,NORMAL
+205,Unknown,AD-LEMNPR-P,NORMAL
+206,Unknown,Why stop at your cash limit? Use MTF to get 5x m...,NORMAL
+207,Unknown,AD-DSPAMC-S,NORMAL
+208,Unknown,Transaction RECEIPT Alert PURCHASE request re...,URGENT
+211,Unknown,Experienced Digital Marketers,NORMAL
+212,Unknown,Perfect Job for You! CTC up to 7LPA,NORMAL
+214,Unknown,Al Tools Course is filling up fast. Register before it...,NORMAL
+215,Unknown,5 notifications,NORMAL
+217,Unknown,Finish booking for Fantastic Four right away!,NORMAL
+219,Unknown,The first step you need to take...,NORMAL
+220,Unknown,Is to book Is for The Fantastic Four: First Steps!,NORMAL
+222,Unknown,Legendary storyBig screen,NORMAL
+223,Unknown,Catch Mahavatar Narsimha in cinemas.,NORMAL
+224,Unknown,3 notifications,NORMAL
+226,Unknown,Gifts say it all,NORMAL
+227,Unknown,From your handmade Rakhi to a personalized scra...,NORMAL
+230,Chrome,8 notifications,NORMAL
+232,Unstop Hiring Hub,Unstop Hiring Hub,NORMAL
+233,Unstop Hiring Hub,Google Microsoft & more are hiring!,NORMAL
+235,Unknown,More hug than mug,NORMAL
+236,Unknown,Cute cosy mugs for coffee that's warm and comfo...,NORMAL
+238,Chrome,Possible spam,NORMAL
+239,Chrome,Chrome detected possible spam from unstop.com.,NORMAL
+241,Niva Bupa Health Insurance,Niva Bupa Health Insurance,NORMAL
+242,Niva Bupa Health Insurance,Tailor-made health plans basis your needs,NORMAL
+243,Niva Bupa Health Insurance,33 notifications,NORMAL
+245,Weather,24° in Pune,NORMAL
+246,Weather,Cloudy . See full forecast,NORMAL
+248,Weather,Today in Pune,URGENT
+249,Weather,45% . Light rain . See full forecast,NORMAL
+251,Weather,23° in Pune,NORMAL
+254,Sports,IND vs ENG . Day 2,NORMAL
+255,Sports,Watch highlight: Day 2 Highlights,NORMAL
+257,Shopping,Not to startle you but...,NORMAL
+258,Shopping,Up to 80% off,NORMAL
+259,Shopping,On Red Tape Nike Levi's Svaraa & more Ext...,NORMAL
+261,Shopping,Final Clearance Sale finds,NORMAL
+262,Shopping,Trends @ flat 70% off,NORMAL
+263,Shopping,Final Clearance Sale drops,NORMAL
+264,Shopping,Adidas Puma Reebok & more under ₹1999 + g...,NORMAL
+266,Shopping,Crocs Vans & Woo...,NORMAL
+270,Shopping,New Balance Skechers & Reebok @ up to 70%...,NORMAL
+272,Shopping,Your kitchen's mood:,NORMAL
+273,Shopping,Cuz it's looking empty! Fill it up in 10 mins,NORMAL
+274,Shopping,Celebrate the bond in style,NORMAL
+275,Shopping,I Grab designer Rakhis Under ₹199,NORMAL
+277,Shopping,Never run out of power!,NORMAL
+278,Shopping,Shop marQ Powerbank From ₹649,NORMAL
+280,Shopping,DON'T tap here unless...,NORMAL
+281,Shopping,... you want crazy deals in 10 mins >,NORMAL
+282,Shopping,Almost time to pretend that you..,NORMAL
+283,Shopping,... like your sibling. Get Rakhi needs in 10 mins,NORMAL
+287,Bewakoof,Fantastic Four Merch is LIVE,NORMAL
+288,Bewakoof,Suit up in Official drip & bring the heat like a true F...,NORMAL
+290,Bewakoof,Spl. OFFER: Buy 2 at ₹999,NORMAL
+291,Bewakoof,You heard it right. Get any 2 & slay the look. Hurry!...,NORMAL
+293,Bewakoof,Printed T-shirts under ₹499,NORMAL
+294,Bewakoof,Shop Oversized Fit Regular Fit & more in stylish pr...,NORMAL
+296,Bewakoof,Pyjamas start at ₹699,NORMAL
+297,Bewakoof,Parth cozy up in ultra-soft fits made for serious ch...,NORMAL
+300,Medial,Musk Bringing Vines Back?,NORMAL
+301,Medial,Tap to read.,NORMAL
+303,Medial,₹913 Cr FDI violation!,NORMAL
+304,Medial,BNPL startup Simpl under ED lens,NORMAL
+306,Medial,First User from Pakistan,NORMAL
+307,Medial,Everything is running on auto mode..,NORMAL
+309,Medial,After losing ₹50000,NORMAL
+310,Medial,This is what I built..,NORMAL
+313,BHIM,Flat ₹10 cashback on bill payments,URGENT
+314,BHIM,Pay your electricity bill credit card bill or recharge...,URGENT
+316,BHIM,UPI Lite = Upto ₹30 Cashback!,URGENT
+317,BHIM,Use UPI Lite to send ₹50+ to 2 people & earn up t...,URGENT
+319,BHIM,Today 6-11 PM | 30000 Winners Every Ho... 19h,URGENT
+321,BHIM,Pay Bills. Get ₹10 Back!,URGENT
+322,BHIM,Pay your electricity credit card or postpaid mobile...,URGENT
+323,BankApp,Suspicious login detected on your account. Change password now.,URGENT
+324,Gmail,Emergency: Action required on your loan application.,URGENT
+325,Google Pay,"₹10,000 debited from your account. Contact support if unauthorized.",URGENT
+326,Cred,Bill payment due today. Avoid late fees!,URGENT
+327,Swiggy,Limited-time offer: ₹100 cashback ends in 1 hour!,URGENT
+328,BankApp,Suspicious login detected on your account. Change password now.,URGENT
+329,Gmail,Emergency: Action required on your loan application.,URGENT
+330,Google Pay,"₹10,000 debited from your account. Contact support if unauthorized.",URGENT
+331,Cred,Bill payment due today. Avoid late fees!,URGENT
+332,Swiggy,Limited-time offer: ₹100 cashback ends in 1 hour!,URGENT
+333,BankApp,Suspicious login detected on your account. Change password now.,URGENT
+334,Gmail,Emergency: Action required on your loan application.,URGENT
+335,Google Pay,"₹10,000 debited from your account. Contact support if unauthorized.",URGENT
+336,Cred,Bill payment due today. Avoid late fees!,URGENT
+337,Swiggy,Limited-time offer: ₹100 cashback ends in 1 hour!,URGENT
+338,BankApp,Suspicious login detected on your account. Change password now.,URGENT
+339,Gmail,Emergency: Action required on your loan application.,URGENT
+340,Google Pay,"₹10,000 debited from your account. Contact support if unauthorized.",URGENT
+341,Cred,Bill payment due today. Avoid late fees!,URGENT
+342,Swiggy,Limited-time offer: ₹100 cashback ends in 1 hour!,URGENT
+343,BankApp,Suspicious login detected on your account. Change password now.,URGENT
+344,Gmail,Emergency: Action required on your loan application.,URGENT
+345,Google Pay,"₹10,000 debited from your account. Contact support if unauthorized.",URGENT
+346,Cred,Bill payment due today. Avoid late fees!,URGENT
+347,Swiggy,Limited-time offer: ₹100 cashback ends in 1 hour!,URGENT
+348,BankApp,Suspicious login detected on your account. Change password now.,URGENT
+349,Gmail,Emergency: Action required on your loan application.,URGENT
+350,Google Pay,"₹10,000 debited from your account. Contact support if unauthorized.",URGENT
+351,Cred,Bill payment due today. Avoid late fees!,URGENT
+352,Swiggy,Limited-time offer: ₹100 cashback ends in 1 hour!,URGENT
+353,BankApp,Suspicious login detected on your account. Change password now.,URGENT
+354,Gmail,Emergency: Action required on your loan application.,URGENT
+355,Google Pay,"₹10,000 debited from your account. Contact support if unauthorized.",URGENT
+356,Cred,Bill payment due today. Avoid late fees!,URGENT
+357,Swiggy,Limited-time offer: ₹100 cashback ends in 1 hour!,URGENT
+358,BankApp,Suspicious login detected on your account. Change password now.,URGENT
+359,Gmail,Emergency: Action required on your loan application.,URGENT
+360,Google Pay,"₹10,000 debited from your account. Contact support if unauthorized.",URGENT
+361,Cred,Bill payment due today. Avoid late fees!,URGENT
+362,Swiggy,Limited-time offer: ₹100 cashback ends in 1 hour!,URGENT
+363,BankApp,Suspicious login detected on your account. Change password now.,URGENT
+364,Instagram,Dad: Please call back. It's urgent.,URGENT
+365,Cred,You missed a call from Mom,URGENT
+366,Truecaller,Meeting with HR rescheduled to 4 PM.,NORMAL
+367,Instagram,Team meeting in 10 mins,URGENT
+368,NewsApp,Heavy rain expected in your area today.,URGENT
+369,Reminder,Zomato: Flash sale ends in 30 minutes!,URGENT
+370,Google Calendar,Dad: Please call back. It's urgent.,URGENT
+371,Gmail,Battery low: 10% remaining,URGENT
+372,Truecaller,New movie released on Netflix today!,NORMAL
+373,Outlook,Dad: Please call back. It's urgent.,URGENT
+374,NewsApp,Battery low: 10% remaining,URGENT
+375,NewsApp,Zomato: Flash sale ends in 30 minutes!,URGENT
+376,Truecaller,Amazon: Payment successful for your order,NORMAL
+377,Reminder,New job alert: Software Engineer in Bengaluru,NORMAL
+378,WhatsApp,Missed delivery attempt for your package,URGENT
+379,Phone,Power cut scheduled from 2–5 PM,URGENT
+380,Google Pay,Unusual login attempt detected from a new device,URGENT
+381,Cred,Meeting with HR rescheduled to 4 PM.,NORMAL
+382,BankApp,Missed delivery attempt for your package,URGENT
+383,Zomato,Your Uber ride is arriving now.,URGENT
+384,Gmail,FB: Someone tagged you in a post,NORMAL
+385,Instagram,Dinner with John at 8 PM,NORMAL
+386,Flipkart,You have a new follower: @techguru,NORMAL
+387,Cred,Doctor appointment tomorrow at 10 AM.,NORMAL
+388,Netflix,Your EMI is due in 2 days,URGENT
+389,Instagram,FB: Someone tagged you in a post,NORMAL
+390,Gmail,Your EMI is due in 2 days,URGENT
+391,Swiggy,Birthday reminder: Call Riya!,NORMAL
+392,Outlook,Dinner with John at 8 PM,NORMAL
+393,Reminder,Battery low: 10% remaining,URGENT
+394,Gmail,Doctor appointment tomorrow at 10 AM.,NORMAL
+395,Truecaller,Missed delivery attempt for your package,URGENT
+396,Swiggy,Heavy rain expected in your area today.,URGENT
+397,Truecaller,Your Uber ride is arriving now.,URGENT
+398,Amazon,New job alert: Software Engineer in Bengaluru,NORMAL
+399,Netflix,Birthday reminder: Call Riya!,NORMAL
+400,Flipkart,₹5000 debited from your A/C XX9876,URGENT
+401,Flipkart,Dinner with John at 8 PM,NORMAL
+402,BankApp,Team meeting in 10 mins,URGENT
+403,Cred,Power cut scheduled from 2–5 PM,URGENT
+404,Gmail,You have a new follower: @techguru,NORMAL
+405,Phone,Your EMI is due in 2 days,URGENT
+406,Truecaller,₹5000 debited from your A/C XX9876,URGENT
+407,Netflix,FB: Someone tagged you in a post,NORMAL
+408,Cred,Birthday reminder: Call Riya!,NORMAL
+409,NewsApp,You missed a call from Mom,URGENT
+410,Zomato,Missed delivery attempt for your package,URGENT
+411,Google Calendar,You missed a call from Mom,URGENT
+412,Google Calendar,Unusual login attempt detected from a new device,URGENT
+413,Amazon,New job alert: Software Engineer in Bengaluru,NORMAL
+414,Gmail,Battery low: 10% remaining,URGENT
+415,Reminder,Power cut scheduled from 2–5 PM,URGENT
+416,Zomato,Battery low: 10% remaining,URGENT
+417,Uber,FB: Someone tagged you in a post,NORMAL
+418,Netflix,Meeting with HR rescheduled to 4 PM.,NORMAL
+419,Cred,Meeting with HR rescheduled to 4 PM.,NORMAL
+420,Truecaller,Swiggy: Enjoy 50% OFF tonight!,NORMAL
+421,NewsApp,Your EMI is due in 2 days,URGENT
+422,Cred,Swiggy: Enjoy 50% OFF tonight!,NORMAL
+423,Reminder,Zomato: Flash sale ends in 30 minutes!,URGENT
+424,Reminder,FB: Someone tagged you in a post,NORMAL
+425,Flipkart,You missed a call from Mom,URGENT
+426,Facebook,New movie released on Netflix today!,NORMAL
+427,Uber,Heavy rain expected in your area today.,URGENT
+428,Google Calendar,Your Uber ride is arriving now.,URGENT
+429,Facebook,Birthday reminder: Call Riya!,NORMAL
+430,Phone,Team meeting in 10 mins,URGENT
+431,Google Pay,You have a new follower: @techguru,NORMAL
+432,Gmail,FB: Someone tagged you in a post,NORMAL
+433,Amazon,You have a new follower: @techguru,NORMAL
+434,Netflix,New movie released on Netflix today!,NORMAL
+435,Cred,Your EMI is due in 2 days,URGENT
+436,WhatsApp,Team meeting in 10 mins,URGENT
+437,Instagram,Team meeting in 10 mins,URGENT
+438,NewsApp,Missed delivery attempt for your package,URGENT
+439,Cred,Missed delivery attempt for your package,URGENT
+440,Zomato,Your Uber ride is arriving now.,URGENT
+441,Swiggy,Zomato: Flash sale ends in 30 minutes!,URGENT
+442,Phone,Amazon: Payment successful for your order,NORMAL
+443,WhatsApp,Swiggy: Enjoy 50% OFF tonight!,NORMAL
+444,Cred,New movie released on Netflix today!,NORMAL
+445,Phone,New movie released on Netflix today!,NORMAL
+446,Instagram,Birthday reminder: Call Riya!,NORMAL
+447,Swiggy,Birthday reminder: Call Riya!,NORMAL
+448,Weather,You have a new follower: @techguru,NORMAL
+449,BankApp,Meeting with HR rescheduled to 4 PM.,NORMAL
+450,Flipkart,Missed delivery attempt for your package,URGENT
+451,Phone,Your EMI is due in 2 days,URGENT
+452,Weather,Dad: Please call back. It's urgent.,URGENT
+453,Outlook,Unusual login attempt detected from a new device,URGENT
+454,Uber,Dad: Please call back. It's urgent.,URGENT
+455,Instagram,Dinner with John at 8 PM,NORMAL
+456,Swiggy,You missed a call from Mom,URGENT
+457,Google Calendar,You missed a call from Mom,URGENT
+458,Reminder,Heavy rain expected in your area today.,URGENT
+459,Gmail,Swiggy: Enjoy 50% OFF tonight!,NORMAL
+460,Uber,Heavy rain expected in your area today.,URGENT
+461,NewsApp,Missed delivery attempt for your package,URGENT
+462,Facebook,Meeting with HR rescheduled to 4 PM.,NORMAL
+463,Uber,Your EMI is due in 2 days,URGENT
+464,Phone,New job alert: Software Engineer in Bengaluru,NORMAL
+465,Weather,You have a new follower: @techguru,NORMAL
+466,Google Pay,Battery low: 10% remaining,URGENT
+467,NewsApp,Missed delivery attempt for your package,URGENT
+468,BankApp,Power cut scheduled from 2–5 PM,URGENT
+469,Swiggy,FB: Someone tagged you in a post,NORMAL
+470,Flipkart,Amazon: Payment successful for your order,NORMAL
+471,Weather,Amazon: Payment successful for your order,NORMAL
+472,Instagram,You missed a call from Mom,URGENT
+473,Truecaller,Heavy rain expected in your area today.,URGENT
+474,Zomato,Dad: Please call back. It's urgent.,URGENT
+475,Reminder,Your EMI is due in 2 days,URGENT
+476,Truecaller,Exam reminder: Physics test tomorrow,URGENT
+477,Truecaller,Dad: Please call back. It's urgent.,URGENT
+478,Gmail,Power cut scheduled from 2–5 PM,URGENT
+479,Google Calendar,You missed a call from Mom,URGENT
+480,Gmail,Doctor appointment tomorrow at 10 AM.,NORMAL
+481,Zomato,Heavy rain expected in your area today.,URGENT
+482,Weather,You missed a call from Mom,URGENT
+483,Cred,Team meeting in 10 mins,URGENT
+484,Uber,Battery low: 10% remaining,URGENT
+485,NewsApp,Meeting with HR rescheduled to 4 PM.,NORMAL
+486,Reminder,Exam reminder: Physics test tomorrow,URGENT
+487,Uber,You missed a call from Mom,URGENT
+488,Uber,Zomato: Flash sale ends in 30 minutes!,URGENT
+489,BankApp,Your Uber ride is arriving now.,URGENT
+490,Instagram,Team meeting in 10 mins,URGENT
+491,Google Pay,Dinner with John at 8 PM,NORMAL
+492,Google Pay,Zomato: Flash sale ends in 30 minutes!,URGENT
+493,Netflix,Swiggy: Enjoy 50% OFF tonight!,NORMAL
+494,Google Calendar,Team meeting in 10 mins,URGENT
+495,Instagram,Doctor appointment tomorrow at 10 AM.,NORMAL
+496,Amazon,Swiggy: Enjoy 50% OFF tonight!,NORMAL
+497,Zomato,Your Uber ride is arriving now.,URGENT
+498,Truecaller,Battery low: 10% remaining,URGENT
+499,BankApp,Your EMI is due in 2 days,URGENT
+500,Netflix,Meeting with HR rescheduled to 4 PM.,NORMAL
+501,Google Pay,₹5000 debited from your A/C XX9876,URGENT
+502,Cred,Amazon: Payment successful for your order,NORMAL
+503,Truecaller,Heavy rain expected in your area today.,URGENT
+504,Netflix,Your EMI is due in 2 days,URGENT
+505,Instagram,Doctor appointment tomorrow at 10 AM.,NORMAL
+506,NewsApp,Dad: Please call back. It's urgent.,URGENT
+507,Gmail,Missed delivery attempt for your package,URGENT
+508,Truecaller,₹5000 debited from your A/C XX9876,URGENT
+509,Google Pay,"Google Pay: You received ₹1,000 from Raj",URGENT
+510,Uber,Battery low: 10% remaining,URGENT
+511,Amazon,Doctor appointment tomorrow at 10 AM.,NORMAL
+512,Phone,FB: Someone tagged you in a post,NORMAL
+513,WhatsApp,FB: Someone tagged you in a post,NORMAL
+514,System,Fire detected in Building A. Evacuate immediately!,URGENT
+515,Emergency Alert,Security Alert: Multiple failed login attempts,URGENT
+516,SmartHome,COVID-19 exposure notification: Take precautions,URGENT
+517,Emergency Alert,Earthquake warning: Seek shelter now,URGENT
+518,Weather,Flood warning issued for your area,URGENT
+519,Weather,Severe thunderstorm alert until 6 PM,URGENT
+520,System,Police Alert: Avoid Route 66 due to accident,URGENT
+521,Weather,Amber Alert: Missing child in your vicinity,URGENT
+522,SecurityApp,Critical software update required,URGENT
+523,SmartHome,High CPU usage detected on your server,URGENT
+524,SmartHome,Your phone is overheating. Close unused apps.,URGENT
+525,SecurityApp,Carbon monoxide detected in your home!,URGENT
+526,System,Suspicious activity near your front door,URGENT
+527,SecurityApp,Gas leak reported in your area,URGENT
+528,SecurityApp,Radiation alert: Stay indoors,URGENT
+529,JobApp,New job posting: Data Scientist at Google,NORMAL
+530,BankApp,Interview scheduled with Amazon on Monday,URGENT
+531,BankApp,Your resume was viewed by 3 recruiters today,NORMAL
+532,BankApp,Application deadline for Microsoft closes tonight,URGENT
+533,BankApp,HR: Please send your documents before EOD,URGENT
+534,BankApp,Call your doctor now – lab results are in,URGENT
+535,BankApp,Your child’s school is closing early today,URGENT
+536,BankApp,Urgent: Change your email password immediately,URGENT
+537,System,System alert: Backup failed last night,URGENT
+538,BankApp,Please respond to legal notice by today,URGENT
+539,BankApp,"Credit card bill due today: ₹12,000",URGENT
+540,BankApp,"Electricity bill unpaid: ₹3,240 due tomorrow",URGENT
+541,BankApp,Subscription ends in 2 days – renew now,NORMAL
+542,BankApp,Final notice: Rent payment pending,URGENT
+543,BankApp,Loan EMI auto-debit scheduled for today,URGENT
+544,Instagram,Netflix: New episode of your favorite show is out now,NORMAL
+545,Duolingo,Weather: Sunny day expected today ☀️,NORMAL
+546,Instagram,Spotify: New music from your favorite artist,NORMAL
+547,Spotify,Google Photos: Memories from last year,NORMAL
+548,YouTube,Reddit: You have 3 new messages,NORMAL
+549,Instagram,LinkedIn: Someone viewed your profile,NORMAL
+550,YouTube,Instagram: New story from @travelblogger,NORMAL
+551,Duolingo,Twitter: Elon Musk just posted a new tweet,NORMAL
+552,Spotify,Pinterest: New pins added to your board,NORMAL
+553,YouTube,Facebook: You have 5 friend suggestions,NORMAL
+554,Instagram,Gmail: Weekly newsletter from Medium,NORMAL
+555,YouTube,YouTube: New video uploaded by Kurzgesagt,NORMAL
+556,NewsApp,Duolingo: You’re on a 3-day streak!,NORMAL
+557,Duolingo,Calendar: Team lunch tomorrow at 1 PM,NORMAL
+558,Spotify,WhatsApp: You received a message from your class group,NORMAL
+559,Calendar,News: Your daily briefing is ready,NORMAL
+560,YouTube,Weather: No rain expected this week,NORMAL
+561,Instagram,Reminder: Water your plants today,NORMAL
+562,Spotify,Calendar: Yoga session at 6 AM,NORMAL
+563,Instagram,Play Store: 3 apps have updates available,NORMAL
